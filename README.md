@@ -2,8 +2,8 @@
 ### Computer Science Undergraduate, IIIT Hyderabad
 ### Undergraduate Researcher at Machine Learning Lab @ IIIT Hyderabad
 
-> 🔭 I’m currently working on Blockchains, Cryptography & Security
-> 👯 I’m looking to collaborate on projects related to CyberSec, Reinforcement Learning, Cryptography & Blockchains
+> 🔭 I’m currently working on Blockchains, Cryptography & Security      
+> 👯 I’m looking to collaborate on projects related to CyberSec, Reinforcement Learning, Cryptography & Blockchains     
 <!--
 **ashwin-mittal/ashwin-mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
