@@ -4,20 +4,6 @@
 
 > 🔭 I’m currently working on Blockchains, Cryptography & Security      
 > 👯 I’m looking to collaborate on projects related to CyberSec, Reinforcement Learning, Cryptography & Blockchains     
-<!--
-**ashwin-mittal/ashwin-mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 🌱 I’m currently learning ...
-- 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=vs666 alt=vs666/> </p>
 <p align="center">
 <a href=https://www.linkedin.com/in/varul-srivastava-497547198/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Varul Srivastava" height="20" width="20" /></a>
