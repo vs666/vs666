@@ -21,10 +21,10 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs666&layout=compact&hide_border=true&theme=blueberry" alt="Varul's Top Languages" />
   </a>
 </p>
-📫 How to reach me : 
-[E-mail](mailto:varul.srivastava@research.iiit.ac.in)
-[Website](https://vs666.github.io)
-[Telegram](https://t.me/varulsrivastava)
+📫 How to reach me :    
+[E-mail](mailto:varul.srivastava@research.iiit.ac.in)   
+[Website](https://vs666.github.io)    
+[Telegram](https://t.me/varulsrivastava)    
 
 
 
