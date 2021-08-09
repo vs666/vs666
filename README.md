@@ -22,7 +22,7 @@
   </a>
 </p>
 📫 How to reach me :    
-[E-mail](mailto:varul.srivastava@research.iiit.ac.in)   
+[E-mail](mailto:varul.srivastava@research.iiit.ac.in)       
 [Website](https://vs666.github.io)    
 [Telegram](https://t.me/varulsrivastava)    
 
