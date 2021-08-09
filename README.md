@@ -15,6 +15,12 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=vs666&show_icons=true alt=vs666 /> 
 </p>
 
+<p align="center">
+  <a target="_blank" href="https://github.com/vs666">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vs666&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" alt="Varul's GitHub Stats" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs666&layout=compact&hide_border=true&theme=blueberry" alt="Varul's Top Languages" />
+  </a>
+</p>
 📫 How to reach me : 
 [E-mail](mailto:varul.srivastava@research.iiit.ac.in)
 [Website](https://vs666.github.io)
