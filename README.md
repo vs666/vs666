@@ -2,9 +2,9 @@
 ### Computer Science Undergraduate, IIIT Hyderabad
 ### Undergraduate Researcher at Machine Learning Lab @ IIIT Hyderabad
 
-> 🔭 I’m currently working on Blockchains, Distributed Systems, Cryptography & Security
-> I'm also transitioning into Reinforcement Learning and Agent based LLMs      
-> 👯 I’m looking to collaborate on projects related to ML-Sec, Reinforcement Learning, Cryptography & Distributed Systems     
+> 🔭 Talk anything RL / ML with me
+> In my past life, I did distributed systems
+> 👯 Get in touch for collab, discussions or Tennis!
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=vs666 alt=vs666/> </p>
 <p align="center">
 <a href=https://www.linkedin.com/in/varul-srivastava-497547198/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Varul Srivastava" height="20" width="20" /></a>
